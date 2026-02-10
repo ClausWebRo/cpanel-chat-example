@@ -1,5 +1,5 @@
 {
-  "name": "-Clausweb-cpanel-chat-sqlite",
+  "name": "Clausweb-cpanel-chat-sqlite",
   "version": "1.0.0",
   "description": "Chat cu SQLite pe cPanel - Clausweb",
   "main": "index.js",
